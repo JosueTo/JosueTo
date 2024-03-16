@@ -1,9 +1,9 @@
 ## Welcome to my github profile 👋
 
-A few thing about me:  
-I am a backend developer from Durango, México and currently living and working in Culiacán, México.  
-I jumped from being an Industrial Engineer to become a full time Backend Developer and I have interest in learning the Cloud and DevOps.  
+##A few things about me:  
   
+I am a backend developer from Durango, México and currently living and working in Culiacán, México.  
+I jumped from being an Industrial Engineer to become a full time Backend Developer and I have interest in learning the Cloud and DevOps.    
 Among being a Backend Developer I'm also pursuing a bachelor degree in Computer Systems Engineering at [Virtual University of the State of Guanajuato](https://uveg.edu.mx/index.php/es/).  
 I am passionate about my career and I would like to collaborate to build the tools that will have a significant impact in the coming times.  
   
