@@ -1,6 +1,6 @@
 ## Welcome to my github profile 👋
 
-##A few things about me:  
+### A few things about me:  
   
 I am a backend developer from Durango, México and currently living and working in Culiacán, México.  
 I jumped from being an Industrial Engineer to become a full time Backend Developer and I have interest in learning the Cloud and DevOps.    
